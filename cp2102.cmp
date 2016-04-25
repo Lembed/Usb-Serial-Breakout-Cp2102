@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-03 BZR 5404)-product   date = 2016-4-25 21:25:32
+
+BeginCmp
+TimeStamp = /555DEEFE;
+Reference = C1;
+ValeurCmp = 10uf;
+IdModule  = BASIC:CAP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /555DEC2E;
+Reference = C2;
+ValeurCmp = 1uf;
+IdModule  = BASIC:CAP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /555DEE55;
+Reference = C3;
+ValeurCmp = 0.1uf;
+IdModule  = BASIC:CAP_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /555DE94F;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = BASIC:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E15165;
+Reference = LOGO1;
+ValeurCmp = LEMBED-LOGO;
+IdModule  = BASIC:LOGO_LEMBED;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E152C3;
+Reference = LOGO2;
+ValeurCmp = OPEN_HARDWARE_1;
+IdModule  = BASIC:LOGO_SILK_OSHW_6x6mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /556450B7;
+Reference = P1;
+ValeurCmp = CONN_01X05;
+IdModule  = BASIC:PIN_SOCKET_5;
+EndCmp
+
+BeginCmp
+TimeStamp = /571E1AE5;
+Reference = P2;
+ValeurCmp = MICRO-USB-B;
+IdModule  = BASIC:USB_B_MINI_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /555DE87C;
+Reference = R1;
+ValeurCmp = 330;
+IdModule  = BASIC:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /555DDC91;
+Reference = U1;
+ValeurCmp = CP2102;
+IdModule  = BASIC:QFN-28;
+EndCmp
+
+EndListe
